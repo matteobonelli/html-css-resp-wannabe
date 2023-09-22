@@ -142,6 +142,12 @@ img {
         margin: 0 auto;
         padding: 0 20px;
     }
+    h1{
+        font-size: 3em;
+    }
+    h2{
+        font-size: 2.4em;
+    }
     .row{
         display: flex;
         flex-flow: column wrap;
